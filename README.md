@@ -10,16 +10,14 @@ ClinVar is a variant-centric database, meaning it stores information at the vari
 ## 📂 Project Structure
 
 clinvar-gene-mapper/
-
 ├── scripts/
-│   └── clinvar_vcf_parser.py
+│ └── clinvar_vcf_parser.py
 ├── data/
-│   └── gene3.txt
+│ └── gene3.txt
 ├── output/
-│   └── clinvar_gene_disease.csv
+│ └── clinvar_gene_disease.csv
 ├── .gitignore
 └── README.md
-
 ---
 
 ## 📥 Input
